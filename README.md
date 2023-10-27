@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+- 🔭 I’m currently working on products for an online store.
+- 🌱 I’m currently learning more about UX.
+- 👯 I’m looking to collaborate on a music distribution platform.
+- 💬 Ask me about Email Marketing.
+- 📫 How to reach me: 3ldeen@gmail.com or insta: lorace_deen
+- ⚡ Fun fact: I am a licensed drone pilot in the US and Europe.
 
 <!--
 **loraclefire/loraclefire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
